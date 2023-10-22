@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.renderWhitespace": "none",
+    "workbench.colorCustomizations": {
+        "editorWhitespace.foreground": "#F4EA56"
+    }
+}
