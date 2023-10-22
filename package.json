@@ -1,0 +1,22 @@
+{
+  "name": "express-typescript",
+  "version": "1.0.0",
+  "description": "NodeJS with Express and TypeScript application",
+  "main": "src/index.ts",
+  "scripts": {
+    "tsc:watch": "tsc --watch",
+    "dev": "nodemon ./build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "express",
+    "restapi",
+    "rest",
+    "api",
+    "crud"
+  ],
+  "author": "",
+  "license": "ISC"
+}
